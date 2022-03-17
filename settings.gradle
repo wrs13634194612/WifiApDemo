@@ -1,0 +1,4 @@
+include ':esptouch-v2'
+include ':esptouch'
+include ':app'
+rootProject.name = "WifiScanDemoSix"
